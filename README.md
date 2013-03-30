@@ -1,4 +1,4 @@
-ThinkSNSios
+ThinkSNS-IOSApp
 ======
 
 一个基于ThinkSNS开源社交网站程序的app
